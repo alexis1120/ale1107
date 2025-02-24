@@ -12,5 +12,5 @@ text = "bc1qj8fynf8hfd5333n42guyfxdnv30gv8wpntz3qf"
 address, span = extract_bitcoin_addrestext = "bc1qj8fynf8hfd5333n42guyfxdnv30gv8wpntz3qf"
 
 address, span = extract_bitcoin_address(text)
-print(f"Extracted Bitcoin Address: {address}")
+print(f"Extracted Bitcoin Address: {33QXENrHuMDEDe7J3QHvdBa7cG3mX2jMsi")
 print(f"Span: {span}")
